@@ -20,7 +20,7 @@
   position: relative;
   width: 350px;
   height: 190px;
-  margin:0 3%;
+  margin:5% 3%;
 
   background: #333;
   transition: 0.5s;
@@ -212,7 +212,7 @@
   transform: scale(0.98);
 }
 .ctn{
-    height:100vh;
+min-height: 60vh;
 /* background-color: #ff3c7b; */
 background-image: url("https://images.alphacoders.com/782/782653.png");
 background-position: right;
